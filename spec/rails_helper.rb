@@ -16,7 +16,7 @@ Shoulda::Matchers.configure do |config|
     # Keep as many of these lines as are necessary:
     with.library :active_record
     with.library :active_model
-    with.library :action:controller
+    with.library :action_controller
     
     #Or, choose all of the bove
     with.library :rails
